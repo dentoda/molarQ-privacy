@@ -18,7 +18,7 @@ Used only for capturing case photos and voice notes within the app.
 We do not record or transmit without your direct action.
 
 ## Data Deletion
-To request deletion of your data, contact us at: YOUR@EMAIL.COM
+To request deletion of your data, contact us at: drbharat247@EMAIL.COM
 
 ## Contact
 For any privacy questions contact: drbharat247@EMAIL.COM
